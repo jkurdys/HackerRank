@@ -21,6 +21,7 @@ All completed challanges can be found in the src folder
 * Average Population
 * Loops
 * List Comprehensions
+* Find the Runner-Up Score!
 
 <!-- ### Installing
 
