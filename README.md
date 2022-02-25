@@ -20,6 +20,7 @@ All completed challanges can be found in the src folder
 
 * Average Population
 * Loops
+* List Comprehensions
 
 <!-- ### Installing
 
