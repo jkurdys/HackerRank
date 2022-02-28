@@ -22,6 +22,7 @@ All completed challanges can be found in the src folder
 * Loops
 * List Comprehensions
 * Find the Runner-Up Score!
+* Nested Lists
 
 <!-- ### Installing
 
