@@ -11,7 +11,7 @@ This repository holds solutions to my completed [HackerRank](https://www.hackerr
 ### Dependencies
 
 * Without access to the underlying databases and tables, the SQL files won't run
-* SQL files written to DB2 standards
+* SQL files written to DB2 standards unless otherwise noted in parentheses
 * Python files written in Python3
 
 ### Completed Challenges
@@ -23,6 +23,7 @@ All completed challanges can be found in the src folder
 * List Comprehensions
 * Find the Runner-Up Score!
 * Nested Lists
+* The PADS (MS SQL Server)
 
 <!-- ### Installing
 
