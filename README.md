@@ -24,6 +24,7 @@ All completed challanges can be found in the src folder
 * Find the Runner-Up Score!
 * Nested Lists
 * The PADS (MS SQL Server)
+* Finding the Percentage
 
 <!-- ### Installing
 
