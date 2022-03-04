@@ -13,6 +13,7 @@ This repository holds solutions to my completed [HackerRank](https://www.hackerr
 * Without access to the underlying databases and tables, the SQL files won't run
 * SQL files written to DB2 standards unless otherwise noted in parentheses
 * Python files written in Python3
+* NumPy
 
 ### Completed Challenges
 
@@ -25,6 +26,7 @@ All completed challanges can be found in the src folder
 * Nested Lists
 * The PADS (MS SQL Server)
 * Finding the Percentage
+* Concatenate
 
 <!-- ### Installing
 
