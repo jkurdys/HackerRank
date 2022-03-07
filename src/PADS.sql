@@ -24,15 +24,16 @@ Note: There will be at least two entries in the table for each type
 of occupation.
 */
 
-select
-case when occupation = 'Actor' then concat(name,'(A)')
- when occupation = 'Doctor' then concat(name,'(D)')
- when occupation = 'Professor' then concat(name,'(P)')
- when occupation = 'Singer' then concat(name,'(S)')
-end as profession
-from occupations;
+SELECT
+CASE WHEN occupation = 'Actor' THEN concat(NAME,'(A)')
+ WHEN occupation = 'Doctor' THEN concat(NAME,'(D)')
+ WHEN occupation = 'Professor' THEN concat(NAME,'(P)')
+ WHEN occupation = 'Singer' THEN concat(NAME,'(S)')
+END AS profession
+FROM occupations
+ORDER BY name;
 
-select concat('There are a total of ', count(occupation),' ', lower(occupation), 's.')
-from occupations
-group by occupation
-order by count(occupation), occupation;
+SELECT concat('There are a total of ', count(occupation),' ', lower(occupation), 's.')
+FROM occupations
+GROUP BY occupation
+ORDER BY count(occupation), occupation;
