@@ -27,6 +27,7 @@ All completed challanges can be found in the src folder
 * The PADS (MS SQL Server)
 * Finding the Percentage
 * Concatenate
+* Occupations
 
 <!-- ### Installing
 
