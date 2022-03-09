@@ -28,6 +28,7 @@ All completed challanges can be found in the src folder
 * Finding the Percentage
 * Concatenate
 * Occupations
+* Lists
 
 <!-- ### Installing
 
